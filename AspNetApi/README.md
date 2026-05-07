@@ -3,7 +3,7 @@
 Базовый REST API для управления мероприятиями, реализованный на ASP.NET Core Web API.
 
 ## Требования
-- .NET 8 SDK или выше: [Скачать](https://dotnet.microsoft.com/download)
+- .NET 10 SDK или выше: [Скачать](https://dotnet.microsoft.com/download)
 - Git
 
 ## Установка и запуск
